@@ -1,0 +1,5 @@
+from restaurant import Restaurant
+
+jennys_diner = Restaurant("Jenny's Diner", "Farm to Table", 75)
+
+jennys_diner.describe_restaurant()
